@@ -1,0 +1,1493 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2024-07-16 13:59">
+    <shop>
+        <company>ИП Шайдаров О.Ю.</company>
+        <url>https://shop.moka-efti.ru/</url>
+        <currencies>
+            <currency id="RUB" rate="1" />
+        </currencies>
+        <categories>
+            <category id="911">Туризм</category>
+            <category id="16">Активный отдых</category>
+            <category id="18">Единоборства</category>
+            <category id="19">Фитнес</category>
+            <category id="474">Йога и пилатес</category>
+            <category id="477">Художественная гимнастика</category>
+            <category id="476">Плавание</category>
+            <category id="20">Командный спорт</category>
+            <category id="699">Игры</category>
+            <category id="419">Мячи</category>
+            <category id="475">Обувь</category>
+            <category id="688">Одежда</category>
+            <category id="443">Детям</category>
+            <category id="848" parentId="16">Снегокаты</category>
+            <category id="262" parentId="16">Двухколесные самокаты</category>
+            <category id="681" parentId="16">Трюковые самокаты</category>
+            <category id="263" parentId="16">Детские самокаты</category>
+            <category id="831" parentId="16">Беговелы</category>
+            <category id="118" parentId="16">Скейтборды</category>
+            <category id="441" parentId="16">Лонгборды</category>
+            <category id="442" parentId="16">Круизеры</category>
+            <category id="105" parentId="16">Роликовые коньки</category>
+            <category id="492" parentId="16">Защита и аксессуары</category>
+            <category id="671" parentId="16">Чехлы и сумки</category>
+            <category id="175" parentId="16">Скандинавская ходьба</category>
+            <category id="907" parentId="16">Большой теннис</category>
+            <category id="768" parentId="16">Бадминтон</category>
+            <category id="178" parentId="16">Батуты</category>
+            <category id="415" parentId="18">Бокс</category>
+            <category id="411" parentId="18">Дзюдо</category>
+            <category id="412" parentId="18">Самбо</category>
+            <category id="413" parentId="18">Карате</category>
+            <category id="414" parentId="18">Борьба</category>
+            <category id="708" parentId="18">Рукопашный бой</category>
+            <category id="416" parentId="18">Кикбоксинг</category>
+            <category id="147" parentId="18">Обувь для единоборств</category>
+            <category id="148" parentId="18">Аксессуары для единоборств</category>
+            <category id="142" parentId="18">Перчатки для единоборств</category>
+            <category id="141" parentId="18">Защита для единоборств</category>
+            <category id="145" parentId="18">Лапы</category>
+            <category id="528" parentId="18">Макивары</category>
+            <category id="774" parentId="19">Одежда для фитнеса</category>
+            <category id="212" parentId="19">Гантели</category>
+            <category id="98" parentId="19">Грифы</category>
+            <category id="273" parentId="19">Блины для штанги и гантелей</category>
+            <category id="446" parentId="19">Штанги</category>
+            <category id="268" parentId="19">Гири</category>
+            <category id="97" parentId="19">Мячи гимнастические</category>
+            <category id="502" parentId="19">Мячи-попрыгуны</category>
+            <category id="104" parentId="19">Коврики для фитнеса</category>
+            <category id="211" parentId="19">Скакалки</category>
+            <category id="102" parentId="19">Эспандеры</category>
+            <category id="509" parentId="19">Ролики массажные</category>
+            <category id="508" parentId="19">Ролики для пресса</category>
+            <category id="506" parentId="19">Упоры для отжиманий</category>
+            <category id="101" parentId="19">Утяжелители</category>
+            <category id="503" parentId="19">Диски балансировочные</category>
+            <category id="100" parentId="19">Турники и брусья</category>
+            <category id="99" parentId="19">Обручи</category>
+            <category id="213" parentId="19">Медболы</category>
+            <category id="210" parentId="19">Степ-платформы</category>
+            <category id="504" parentId="19">Бодибары</category>
+            <category id="103" parentId="19">Батуты</category>
+            <category id="761" parentId="19">Скандинавская ходьба</category>
+            <category id="216" parentId="19">Фиксаторы, суппорты</category>
+            <category id="215" parentId="19">Экипировка для фитнеса</category>
+            <category id="507" parentId="19">Другой инвентарь и аксессуары</category>
+            <category id="72" parentId="20">Футбол</category>
+            <category id="80" parentId="20">Баскетбол</category>
+            <category id="149" parentId="20">Волейбол</category>
+            <category id="155" parentId="20">Гандбол</category>
+            <category id="325" parentId="20">Бейсбол</category>
+            <category id="684" parentId="20">Игровая форма</category>
+            <category id="676" parentId="20">Спортивные сумки, рюкзаки, мешки</category>
+            <category id="847" parentId="20">Водное поло</category>
+            <category id="844" parentId="20">Вратарские перчатки</category>
+            <category id="846" parentId="20">Щитки</category>
+            <category id="845" parentId="20">Аксессуары</category>
+            <category id="74" parentId="72">Футбольные мячи</category>
+            <category id="445" parentId="72">Футзальные мячи</category>
+            <category id="335" parentId="72">Гетры футбольные</category>
+            <category id="753" parentId="72">Гольфы футбольные</category>
+            <category id="336" parentId="72">Щитки футбольные</category>
+            <category id="331" parentId="72">Манишки футбольные</category>
+            <category id="337" parentId="72">Перчатки вратарские</category>
+            <category id="559" parentId="72">Насосы для футбольных мячей</category>
+            <category id="75" parentId="72">Футбольные аксессуары</category>
+            <category id="677" parentId="72">Футбольные сумки, рюкзаки, мешки</category>
+            <category id="561" parentId="80">Насосы для баскетбольных мячей</category>
+            <category id="678" parentId="80">Сумки, рюкзаки, мешки баскетбольные</category>
+            <category id="82" parentId="80">Баскетбольные мячи</category>
+            <category id="341" parentId="80">Баскетбольные кольца</category>
+            <category id="342" parentId="80">Баскетбольные аксессуары</category>
+            <category id="560" parentId="80">Манишки баскетбольные</category>
+            <category id="271" parentId="98">Грифы для штанги</category>
+            <category id="272" parentId="98">Грифы для гантелей</category>
+            <category id="519" parentId="99">Обручи массажные</category>
+            <category id="520" parentId="99">Обручи гимнастические</category>
+            <category id="515" parentId="100">Турники распорные</category>
+            <category id="516" parentId="100">Турники в дверной проем</category>
+            <category id="517" parentId="100">Турники настенные</category>
+            <category id="518" parentId="100">Брусья</category>
+            <category id="281" parentId="101">Жилеты-утяжелители</category>
+            <category id="282" parentId="101">Пояса-утяжелители</category>
+            <category id="279" parentId="101">Утяжелители для ног и рук</category>
+            <category id="283" parentId="102">Эспандеры кистевые</category>
+            <category id="284" parentId="102">Эспандеры плечевые</category>
+            <category id="432" parentId="102">Эспандеры силовые</category>
+            <category id="285" parentId="102">Жгуты спортивные</category>
+            <category id="511" parentId="103">Батуты без сетки</category>
+            <category id="512" parentId="103">Батуты без сетки складные</category>
+            <category id="513" parentId="103">Батуты с сеткой</category>
+            <category id="514" parentId="103">Аксессуары для батутов</category>
+            <category id="636" parentId="104">Сумки для ковриков</category>
+            <category id="107" parentId="105">Раздвижные роликовые коньки</category>
+            <category id="264" parentId="105">Защита для роликовых коньков</category>
+            <category id="109" parentId="105">Роликовые коньки трансформеры</category>
+            <category id="647" parentId="118">Запчасти для скейтбордов</category>
+            <category id="490" parentId="118">Защита для скейтбордов</category>
+            <category id="668" parentId="118">Чехлы и сумки для скейтбордов</category>
+            <category id="227" parentId="141">Шлемы боксерские открытые</category>
+            <category id="557" parentId="141">Шлемы боксерские закрытые</category>
+            <category id="228" parentId="141">Защита для ног для единоборств</category>
+            <category id="231" parentId="141">Бандажи для единоборств</category>
+            <category id="230" parentId="141">Капы для единоборств</category>
+            <category id="627" parentId="141">Накладки на кисть</category>
+            <category id="221" parentId="142">Перчатки для бокса</category>
+            <category id="222" parentId="142">Перчатки  для ММА и смешанных единоборств</category>
+            <category id="223" parentId="142">Снарядные перчатки</category>
+            <category id="555" parentId="142">Перчатки для рукопашного боя</category>
+            <category id="238" parentId="147">Обувь для борьбы</category>
+            <category id="610" parentId="147">Обувь для самбо</category>
+            <category id="239" parentId="147">Обувь для бокса</category>
+            <category id="241" parentId="148">Другие аксессуары для единоборств</category>
+            <category id="558" parentId="148">Пояса для единоборств</category>
+            <category id="240" parentId="148">Бинты для бокса</category>
+            <category id="150" parentId="149">Волейбольные мячи</category>
+            <category id="562" parentId="149">Мячи для пляжного волейбола</category>
+            <category id="343" parentId="149">Защита для волейбола</category>
+            <category id="345" parentId="149">Волейбольные аксессуары</category>
+            <category id="563" parentId="149">Насосы для волейбольных мячей</category>
+            <category id="679" parentId="149">Волейбольные сумки, рюкзаки, мешки</category>
+            <category id="151" parentId="149">Манишки волейбольные</category>
+            <category id="567" parentId="155">Гандбольные мячи</category>
+            <category id="564" parentId="155">Защита для гандбола</category>
+            <category id="568" parentId="155">Аксессуары для гандбола</category>
+            <category id="680" parentId="155">Сумки, рюкзаки, мешки для гандбола</category>
+            <category id="565" parentId="155">Манишки гандбольные</category>
+            <category id="763" parentId="178">Батуты без сетки</category>
+            <category id="764" parentId="178">Батуты без сетки складные</category>
+            <category id="765" parentId="178">Батуты с сеткой</category>
+            <category id="766" parentId="178">Аксессуары для батутов</category>
+            <category id="407" parentId="196">Детские шапочки для плавания</category>
+            <category id="406" parentId="196">Детские очки для плавания</category>
+            <category id="408" parentId="196">Детские доски для плавания</category>
+            <category id="410" parentId="196">Детские ласты</category>
+            <category id="645" parentId="196">Детские купальники для плавания</category>
+            <category id="644" parentId="196">Детские плавки для плавания</category>
+            <category id="399" parentId="196">Детские скакалки</category>
+            <category id="397" parentId="196">Детские мячи гимнастические</category>
+            <category id="400" parentId="196">Детские эспандеры</category>
+            <category id="259" parentId="196">Детский настольный теннис</category>
+            <category id="621" parentId="196">Детские клюшки</category>
+            <category id="270" parentId="212">Литые гантели</category>
+            <category id="269" parentId="212">Разборные гантели</category>
+            <category id="286" parentId="215">Перчатки для фитнеса</category>
+            <category id="288" parentId="215">Пояса атлетические</category>
+            <category id="505" parentId="215">Носки спортивные</category>
+            <category id="640" parentId="215">Аксессуары для похудения</category>
+            <category id="277" parentId="216">Напульсники</category>
+            <category id="278" parentId="216">Фиксаторы голеностопа</category>
+            <category id="276" parentId="216">Бинты эластичные</category>
+            <category id="466" parentId="262">Запчасти для самокатов</category>
+            <category id="670" parentId="262">Чехлы и сумки для самокатов</category>
+            <category id="489" parentId="263">Защита для самокатов</category>
+            <category id="353" parentId="325">Бейсбольные биты</category>
+            <category id="535" parentId="411">Кимоно для дзюдо</category>
+            <category id="536" parentId="411">Пояса для дзюдо</category>
+            <category id="530" parentId="412">Куртки для самбо</category>
+            <category id="531" parentId="412">Шорты для самбо</category>
+            <category id="532" parentId="412">Перчатки для самбо</category>
+            <category id="533" parentId="412">Макивары для самбо</category>
+            <category id="611" parentId="412">Самбовки</category>
+            <category id="534" parentId="412">Лапы для самбо</category>
+            <category id="609" parentId="412">Обувь для самбо</category>
+            <category id="537" parentId="413">Кимоно для карате</category>
+            <category id="538" parentId="413">Накладки для карате</category>
+            <category id="539" parentId="413">Пояса для карате</category>
+            <category id="540" parentId="413">Лапы для карате</category>
+            <category id="541" parentId="413">Макивары для карате</category>
+            <category id="542" parentId="414">Трико борцовские</category>
+            <category id="543" parentId="414">Борцовки</category>
+            <category id="544" parentId="415">Перчатки для бокса</category>
+            <category id="545" parentId="415">Снарядные перчатки</category>
+            <category id="546" parentId="415">Лапы для бокса</category>
+            <category id="547" parentId="415">Шлемы боксерские открытые</category>
+            <category id="548" parentId="415">Шлемы боксерские закрытые</category>
+            <category id="549" parentId="415">Груши для бокса</category>
+            <category id="550" parentId="415">Мешки для бокса</category>
+            <category id="551" parentId="415">Бинты для бокса</category>
+            <category id="552" parentId="415">Боксерки</category>
+            <category id="638" parentId="415">Форма для бокса</category>
+            <category id="672" parentId="415">Наборы для бокса</category>
+            <category id="554" parentId="416">Макивары для кикбоксинга</category>
+            <category id="420" parentId="419">Мячи для футбола</category>
+            <category id="421" parentId="419">Мячи для баскетбола</category>
+            <category id="422" parentId="419">Мячи для волейбола</category>
+            <category id="456" parentId="419">Мячи для футзала</category>
+            <category id="752" parentId="419">Медболы</category>
+            <category id="829" parentId="419">Мячи для водного поло</category>
+            <category id="423" parentId="419">Мячи для гандбола</category>
+            <category id="425" parentId="419">Мячи для настольного тенниса</category>
+            <category id="759" parentId="419">Мячи гимнастические</category>
+            <category id="424" parentId="419">Мячи для пилатеса</category>
+            <category id="751" parentId="419">Массажные мячи</category>
+            <category id="628" parentId="419">Мячи для художественной гимнастики</category>
+            <category id="811" parentId="419">Насосы для мячей</category>
+            <category id="646" parentId="441">Запчасти для лонгбордов</category>
+            <category id="669" parentId="441">Чехлы и сумки для лонгбордов</category>
+            <category id="634" parentId="442">Пластиковые круизеры</category>
+            <category id="635" parentId="442">Деревянные круизеры</category>
+            <category id="467" parentId="442">Запчасти для круизеров</category>
+            <category id="491" parentId="442">Защита для круизеров</category>
+            <category id="667" parentId="442">Чехлы и сумки для круизеров</category>
+            <category id="729" parentId="443">Детская обувь</category>
+            <category id="196" parentId="443">Детские спортивные товары</category>
+            <category id="773" parentId="443">Детская спортивная одежда</category>
+            <category id="449" parentId="443">Художественная гимнастика</category>
+            <category id="855" parentId="443">Беговелы</category>
+            <category id="382" parentId="443">Детские снегокаты</category>
+            <category id="393" parentId="443">Детские самокаты</category>
+            <category id="390" parentId="443">Детские роликовые коньки</category>
+            <category id="391" parentId="443">Детская защита</category>
+            <category id="448" parentId="443">Детские тренажеры</category>
+            <category id="87" parentId="443">Маты для ДСК</category>
+            <category id="403" parentId="443">Детский бадминтон</category>
+            <category id="405" parentId="443">Детские игры</category>
+            <category id="637" parentId="446">Разборные штанги</category>
+            <category id="618" parentId="449">Юбки для художественной гимнастики</category>
+            <category id="451" parentId="449">Мячи для художественной гимнастики</category>
+            <category id="460" parentId="449">Скакалки для художественной гимнастики</category>
+            <category id="458" parentId="449">Обручи для художественной гимнастики</category>
+            <category id="675" parentId="449">Обмотка для обручей</category>
+            <category id="463" parentId="449">Ленты для художественной гимнастики</category>
+            <category id="462" parentId="449">Булавы для художественной гимнастики</category>
+            <category id="452" parentId="449">Чехлы для художественной гимнастики</category>
+            <category id="664" parentId="449">Наколенники</category>
+            <category id="612" parentId="449">Купальники для художественной гимнастики</category>
+            <category id="613" parentId="449">Лосины для художественной гимнастики</category>
+            <category id="614" parentId="449">Бриджи для художественной гимнастики</category>
+            <category id="615" parentId="449">Тайтсы для художественной гимнастики</category>
+            <category id="616" parentId="449">Шорты для художественной гимнастики</category>
+            <category id="617" parentId="449">Гетры для художественной гимнастики</category>
+            <category id="619" parentId="449">Майки для художественной гимнастики</category>
+            <category id="620" parentId="449">Футболки для художественной гимнастики</category>
+            <category id="450" parentId="449">Чешки</category>
+            <category id="453" parentId="449">Балетки для танцев</category>
+            <category id="455" parentId="449">Джазовки</category>
+            <category id="454" parentId="449">Экипировка для художественной гимнастики</category>
+            <category id="574" parentId="474">Коврики для йоги</category>
+            <category id="575" parentId="474">Блоки для йоги</category>
+            <category id="576" parentId="474">Ролики для йоги и пилатеса</category>
+            <category id="577" parentId="474">Ремни и комплекты для йоги</category>
+            <category id="579" parentId="474">Мячи для пилатеса</category>
+            <category id="580" parentId="474">Кольца для пилатеса</category>
+            <category id="834" parentId="474">Колеса для йоги</category>
+            <category id="926" parentId="475">Обувь для треккинга и трейлраннинга</category>
+            <category id="571" parentId="475">Бутсы футбольные</category>
+            <category id="902" parentId="475">Бутсы зальные</category>
+            <category id="900" parentId="475">Бутсы многошиповые</category>
+            <category id="903" parentId="475">Кроссовки спортивные</category>
+            <category id="898" parentId="475">Кроссовки баскетбольные</category>
+            <category id="897" parentId="475">Кроссовки волейбольные</category>
+            <category id="733" parentId="475">Обувь для единоборств</category>
+            <category id="819" parentId="475">Чешки и балетки</category>
+            <category id="823" parentId="475">Пляжная обувь</category>
+            <category id="910" parentId="475">Сланцы для душа и бассейна</category>
+            <category id="600" parentId="476">Шапочки для плавания</category>
+            <category id="601" parentId="476">Очки для плавания</category>
+            <category id="641" parentId="476">Одежда для плавания</category>
+            <category id="607" parentId="476">Ласты для плавания</category>
+            <category id="602" parentId="476">Доски для плавания</category>
+            <category id="605" parentId="476">Лопатки для плавания</category>
+            <category id="603" parentId="476">Колобашки</category>
+            <category id="606" parentId="476">Зажимы для носа</category>
+            <category id="604" parentId="476">Беруши</category>
+            <category id="608" parentId="476">Аксессуары для плавания</category>
+            <category id="665" parentId="476">Рюкзаки и сумки</category>
+            <category id="822" parentId="476">Обувь для бассейна</category>
+            <category id="583" parentId="477">Мячи</category>
+            <category id="585" parentId="477">Скакалки</category>
+            <category id="584" parentId="477">Обручи</category>
+            <category id="673" parentId="477">Обмотка для обручей</category>
+            <category id="581" parentId="477">Булавы</category>
+            <category id="582" parentId="477">Ленты </category>
+            <category id="814" parentId="477">Палочки для художественной гимнастики</category>
+            <category id="586" parentId="477">Чехлы</category>
+            <category id="587" parentId="477">Утяжелители и аксессуары</category>
+            <category id="590" parentId="477">Купальники</category>
+            <category id="588" parentId="477">Лосины</category>
+            <category id="589" parentId="477">Бриджи</category>
+            <category id="592" parentId="477">Велосипедки</category>
+            <category id="591" parentId="477">Шорты</category>
+            <category id="595" parentId="477">Юбки</category>
+            <category id="593" parentId="477">Майки</category>
+            <category id="594" parentId="477">Футболки</category>
+            <category id="596" parentId="477">Гетры</category>
+            <category id="851" parentId="477">Обувь</category>
+            <category id="663" parentId="477">Наколенники</category>
+            <category id="816" parentId="477">Носки </category>
+            <category id="493" parentId="492">Защита для роликовых коньков</category>
+            <category id="494" parentId="492">Защита для самокатов</category>
+            <category id="495" parentId="492">Защита для скейтбордов</category>
+            <category id="496" parentId="492">Защита для круизеров</category>
+            <category id="497" parentId="492">Аксессуары для роликовых коньков</category>
+            <category id="498" parentId="492">Аксессуары для самокатов</category>
+            <category id="499" parentId="492">Аксессуары для скейтбордов</category>
+            <category id="500" parentId="492">Аксессуары для круизеров</category>
+            <category id="553" parentId="540">Лапы для кикбоксинга</category>
+            <category id="642" parentId="641">Купальники для плавания</category>
+            <category id="643" parentId="641">Плавки для плавания</category>
+            <category id="806" parentId="681">Аксессуары для трюковых самокатов</category>
+            <category id="686" parentId="684">Баскетбольная форма</category>
+            <category id="687" parentId="684">Волейбольная форма</category>
+            <category id="685" parentId="684">Футбольная форма</category>
+            <category id="807" parentId="684">Вратарская форма</category>
+            <category id="856" parentId="684">Судейская форма</category>
+            <category id="697" parentId="688">Головные уборы</category>
+            <category id="837" parentId="688">Женская одежда для фитнеса</category>
+            <category id="838" parentId="688">Мужская одежда для фитнеса</category>
+            <category id="689" parentId="688">Игровая форма</category>
+            <category id="737" parentId="688">Одежда для единоборств</category>
+            <category id="850" parentId="688">Толстовки и худи</category>
+            <category id="762" parentId="688">Костюмы парадные</category>
+            <category id="748" parentId="688">Костюмы тренировочные</category>
+            <category id="824" parentId="688">Брюки тренировочные</category>
+            <category id="853" parentId="688">Брюки спортивные</category>
+            <category id="827" parentId="688">Олимпийки</category>
+            <category id="757" parentId="688">Футболки и поло</category>
+            <category id="828" parentId="688">Джемперы</category>
+            <category id="758" parentId="688">Шорты</category>
+            <category id="808" parentId="688">Спортивное белье</category>
+            <category id="803" parentId="688">Куртки утепленные</category>
+            <category id="825" parentId="688">Пальто и жилеты утепленные</category>
+            <category id="750" parentId="688">Куртки ветрозащитные</category>
+            <category id="749" parentId="688">Брюки ветрозащитные</category>
+            <category id="826" parentId="688">Перчатки и шарфы</category>
+            <category id="754" parentId="688">Гетры футбольные</category>
+            <category id="755" parentId="688">Гольфы футбольные</category>
+            <category id="760" parentId="688">Носки</category>
+            <category id="690" parentId="689">Футбол</category>
+            <category id="691" parentId="689">Баскетбол</category>
+            <category id="692" parentId="689">Волейбол</category>
+            <category id="809" parentId="689">Вратарская форма</category>
+            <category id="857" parentId="689">Судейская форма</category>
+            <category id="904" parentId="699">Большой теннис</category>
+            <category id="702" parentId="699">Настольный теннис</category>
+            <category id="701" parentId="699">Бадминтон</category>
+            <category id="700" parentId="699">Настольные игры</category>
+            <category id="711" parentId="700">Шахматы</category>
+            <category id="712" parentId="700">Шашки</category>
+            <category id="713" parentId="700">Нарды</category>
+            <category id="718" parentId="700">Домино</category>
+            <category id="717" parentId="700">Лото</category>
+            <category id="705" parentId="701">Наборы для бадминтона</category>
+            <category id="706" parentId="701">Воланы для бадминтона</category>
+            <category id="707" parentId="701">Аксессуары для бадминтона</category>
+            <category id="721" parentId="702">Столы для настольного тенниса</category>
+            <category id="722" parentId="702">Ракетки для настольного тенниса</category>
+            <category id="726" parentId="702">Мячи для настольного тенниса</category>
+            <category id="724" parentId="702">Наборы для настольного тенниса</category>
+            <category id="723" parentId="702">Сетки для настольного тенниса</category>
+            <category id="725" parentId="702">Аксессуары для настольного тенниса</category>
+            <category id="756" parentId="708">Шлемы для рукопашного боя</category>
+            <category id="709" parentId="708">Кимоно для рукопашного боя</category>
+            <category id="710" parentId="708">Перчатки для рукопашного боя</category>
+            <category id="727" parentId="708">Защита для рукопашного боя</category>
+            <category id="933" parentId="729">Детская обувь для треккинга и трейлранинга</category>
+            <category id="731" parentId="729">Бутсы</category>
+            <category id="732" parentId="729">Футзалки</category>
+            <category id="730" parentId="729">Многошиповки</category>
+            <category id="805" parentId="729">Детские кроссовки</category>
+            <category id="894" parentId="729">Для единоборств</category>
+            <category id="734" parentId="733">Обувь для бокса</category>
+            <category id="735" parentId="733">Обувь для самбо</category>
+            <category id="736" parentId="733">Обувь для борьбы</category>
+            <category id="738" parentId="737">Куртки</category>
+            <category id="739" parentId="737">Кимоно</category>
+            <category id="740" parentId="737">Рашгарды</category>
+            <category id="741" parentId="737">Трико</category>
+            <category id="742" parentId="737">Шорты</category>
+            <category id="743" parentId="737">Форма для бокса</category>
+            <category id="744" parentId="737">Перчатки</category>
+            <category id="745" parentId="737">Шлемы</category>
+            <category id="746" parentId="737">Пояса</category>
+            <category id="769" parentId="768">Наборы для бадминтона</category>
+            <category id="770" parentId="768">Воланы для бадминтона</category>
+            <category id="771" parentId="768">Аксессуары для бадминтона</category>
+            <category id="885" parentId="773">Игровая форма</category>
+            <category id="892" parentId="773">Толстовки и худи</category>
+            <category id="881" parentId="773">Костюмы парадные</category>
+            <category id="882" parentId="773">Костюмы тренировочные</category>
+            <category id="876" parentId="773">Брюки спортивные</category>
+            <category id="877" parentId="773">Брюки тренировочные</category>
+            <category id="889" parentId="773">Олимпийки</category>
+            <category id="891" parentId="773">Футболки и поло</category>
+            <category id="880" parentId="773">Джемперы</category>
+            <category id="884" parentId="773">Куртки утепленные</category>
+            <category id="890" parentId="773">Пальто и жилеты утепленные</category>
+            <category id="883" parentId="773">Куртки ветрозащитные</category>
+            <category id="875" parentId="773">Брюки ветрозащитные</category>
+            <category id="893" parentId="773">Головные уборы</category>
+            <category id="786" parentId="774">Толстовки, джемперы и худи</category>
+            <category id="787" parentId="774">Лонгсливы и рашгарды</category>
+            <category id="779" parentId="774">Футболки</category>
+            <category id="780" parentId="774">Майки</category>
+            <category id="781" parentId="774">Топы и спортивные бра</category>
+            <category id="782" parentId="774">Комбинезоны</category>
+            <category id="790" parentId="774">Брюки и джоггеры</category>
+            <category id="784" parentId="774">Тайтсы и леггинсы</category>
+            <category id="785" parentId="774">Шорты и велосипедки</category>
+            <category id="598" parentId="851">Чешки</category>
+            <category id="597" parentId="851">Балетки</category>
+            <category id="599" parentId="851">Джазовки</category>
+            <category id="886" parentId="885">Футбол</category>
+            <category id="887" parentId="885">Баскетбол</category>
+            <category id="888" parentId="885">Волейбол</category>
+            <category id="905" parentId="904">Ракетки для большого тенниса</category>
+            <category id="906" parentId="904">Мячи для большого тенниса</category>
+            <category id="908" parentId="907">Ракетки для большого тенниса</category>
+            <category id="909" parentId="907">Мячи для большого тенниса</category>
+            <category id="920" parentId="911">Палатки</category>
+            <category id="922" parentId="911">Спальные мешки</category>
+            <category id="912" parentId="911">Обувь</category>
+            <category id="921" parentId="911">Аксессуары для палаток</category>
+            <category id="923" parentId="911">Рюкзаки</category>
+            <category id="924" parentId="911">Палки для скандинавской ходьбы, палки треккинговые</category>
+            <category id="925" parentId="911">Аксессуары</category>
+            <category id="914" parentId="912">Ботинки для хайкинга, треккинга</category>
+            <category id="915" parentId="912">Кроссовки для трейлраннинга</category>
+            <category id="917" parentId="912">Кроссовки</category>
+            <category id="918" parentId="912">Детские ботинки для хайкинга, треккинга</category>
+            <category id="919" parentId="912">Детские кроссовки для хайкинга, треккинга</category>
+            <category id="942" parentId="920">Одноместные</category>
+            <category id="943" parentId="920">Двухместные</category>
+            <category id="944" parentId="920">Трехместные</category>
+            <category id="945" parentId="920">Четырехместные</category>
+            <category id="934" parentId="921">Футпринты</category>
+            <category id="935" parentId="921">Колышки</category>
+            <category id="936" parentId="921">Ремкомплекты</category>
+            <category id="937" parentId="925">Фонари</category>
+            <category id="938" parentId="925">Коврики</category>
+            <category id="939" parentId="925">Наборы для пикника</category>
+            <category id="940" parentId="925">Пледы</category>
+            <category id="941" parentId="925">Термосумки</category>
+            <category id="927" parentId="926">Ботинки для хайкинга, треккинга</category>
+            <category id="928" parentId="926">Кроссовки для трейлраннинга</category>
+            <category id="929" parentId="926">Обувь для каякинга</category>
+            <category id="930" parentId="926">Кроссовки</category>
+            <category id="931" parentId="926">Детские ботинки для хайкинга, треккинга</category>
+            <category id="932" parentId="926">Детские кроссовки для хайкинга, треккинга</category>
+        </categories>
+        <shipment-options>
+            <option days="0" order-before="8"/>
+        </shipment-options>
+        <offers>
+            <offer id="861119" available="true">
+                <name>Самокат 3-колесный Bunny, 135/90 мм, голубой/зеленый</name>
+                <price>2969</price>
+                <oldprice>3209</oldprice>
+                <categoryId>263</categoryId>
+                <picture>https://prime-sport.ru/upload/iblock/eff/eff36395acba07a6e65a5aafc8ff868f.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/546/546de8543bc42055646ae4b0a287b6f0.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/1c4/1c45a2e59bf1f6d5f3e6bafe3fd27a22.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/fbb/fbbc596fbd38f85cd225a2feb1f57a7e.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/fa4/fa43e32ad0c8a80017e218f2d10b0345.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/453/453534ae07937bcea9c1dd8b69c9227f.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/812/8120435f91c7df072f1ff310c3e323cd.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/038/038da6ac26e6d5487bfe1bd1db42edd7.jpg</picture>
+                <picture>https://prime-sport.ru/upload/iblock/383/383ae525d344a3d1b1b8f04f2ad18ad3.jpg</picture>
+                <picture>https://prime-sport.ru/upload/iblock/b80/b8066708aa7a3b9aa0769a847ccf07c0.png</picture>
+                <vat>5</vat>
+                <shipment-options>
+                    <option days="0" order-before="8"/>
+                </shipment-options>
+                <vendor>Ridex</vendor>
+                <vendorCode>УТ-00018426</vendorCode>
+                <barcode>4680459107169</barcode>
+                <description>Маленький самокат с большими колесами – ребенку точно понравится модель Bunny RIDEX, ведь он может ехать быстрее при меньших усилиях!
+Полиуретановые колеса детского трехколесного самоката сгладят трещины и неровности дорожного полотна, а профессиональные подшипники АВЕС-7 будут послушны на любой поверхности. Нужно зайти в транспорт или убрать изделие в кладовку? Детский 3-х колесный самокат Bunny имеет удобную систему складывания, которая позволит его компактно хранить и перевозить. Стильный дизайн, светящиеся колеса и яркие цветовые решения делают самокат заметней для вас и интересней для ребёнка.
+Bunny – тот случай, когда все в выигрыше!
+Преимущества:
+Удобная система складывания;
+Регулируемая высота руля;
+Светящиеся колеса.
+Характеристики:
+Состав конструкции: полипропилен, алюминий
+Колеса, диаметр, мм: переднее - 135, заднее - 90
+Колеса, материал: полиуретан
+Руль, высота, см: 72/78/83/87
+Грипсы, материал: резина
+Дека, ширина, см: 12
+Дека, длина, см: 60
+Подшипники: АВЕС-7
+Система складывания: есть
+Рекомендуемый рост, см: 95-135
+Максимальный вес пользователя, кг: 50</description>
+                <outlets>
+                    <outlet id="91867" instock="61" />
+                </outlets>
+                <param name="Габариты" unit="СМ">630 x 280 x 170</param>
+                <param name="Вес" unit="КГ">4.15</param>
+            </offer>
+            <offer id="2109107" available="true">
+                <name>Скейтборд Mosaic 29.625"x7.375"</name>
+                <price>4419</price>
+                <oldprice>4639</oldprice>
+                <categoryId>118</categoryId>
+                <picture>https://prime-sport.ru/upload/iblock/6c3/6c373753dc16dbdf5ad1ab87628cf359.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/8da/8da01591cf6c9d029b58b6b45b716271.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/096/0960d711bd597fdb02f9e79fff2237c5.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/65b/65bd07c9bb52538570ac68d3780c4280.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/443/44395f56a283b24cf1e4d1a2ff328c0a.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/a1b/a1b79d5e33e3fe8c0bed0959c7eef2fe.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/7df/7df97a15792564e05766c2d82697f925.png</picture>
+                <vat>5</vat>
+                <shipment-options>
+                    <option days="0" order-before="8"/>
+                </shipment-options>
+                <vendor>Ridex</vendor>
+                <vendorCode>ЦБ-00002846</vendorCode>
+                <barcode>4680459209696</barcode>
+                <description>В поисках яркого и стильного способа передвижения? Представляем вам уникальный RIDEX Mosaic - идеальный выбор для активных и энергичных людей, которые хотят выразить себя через скейтбординг.
+Мягкие бушинги 85A позволяют скейтборду легко маневрировать и поворачивать на малых скоростях, а колеса жесткостью 92А открывают еще больше возможностей для выполнения трюков. Устойчивая дека с прогибом Concave Little идеальна для обычного катания, а также знакомств с рампами и пулами. Послушный и динамичный, Mosaic поможет собрать неповторимую мозаику из ярких эмоций и новых открытий, которые ждут начинающего райдера на его пути. Независимо от того, предпочитаете ли вы городскую езду или катание в парке, Mosaic обеспечит вам отличную управляемость и контроль, сглаживая неровности дорожного покрытия.
+Скейтборд идеален для детей и подростков старше 9 лет, длина деки оптимально подходит для райдеров ростом от 150 до 160 сантиметров. Одна из особенностей RIDEX Mosaic - его динамичный дизайн. Яркая шкурка и оригинальный принт придают вашему скейтборду уникальный вид и дарят множество впечатлений от катания. Сторона ноуз отмечена цветными болтами, поэтому начинающий райдер за секунду поймет, где у Mosaic нос, не отвлекаясь на поиски нужной стороны скейта.
+Преимущества:
+Высокая маневренность;
+Сглаживает неровности дорожного покрытия;
+Подходит для начинающих райдеров;
+Нос скейтборда отмечен контрастными болтами;
+Маленький конкейв.
+Характеристики:
+Размер деки: 29,625" x 7,375"
+Материал деки: 7 слоев клена
+Шкурка: OWA80
+Размер подвески: 5"
+Материал подвески: алюминий
+Прокладка (рейзеры, высота, мм): 4
+Бушинги, жесткость: 85А
+Бушинги, материал: ПУ
+Колеса, размер, мм: 52 x 32
+Колеса, жесткость, A: 92А
+Материал колес: ПУ
+Подшипники: ABEC-5  Carbon
+Тип упаковки: прозрачный пакет
+Максимальный вес пользователя, кг: 50</description>
+                <outlets>
+                    <outlet id="91867" instock="402" />
+                </outlets>
+                <param name="Габариты" unit="СМ">760 x 230 x 170</param>
+                <param name="Вес" unit="КГ">2</param>
+            </offer>
+            <offer id="2109108" available="true">
+                <name>Скейтборд Sign 29.625"x7.375"</name>
+                <price>3689</price>
+                <oldprice>4559</oldprice>
+                <categoryId>118</categoryId>
+                <picture>https://prime-sport.ru/upload/iblock/0f0/0f0e46ca2aaf5697c475d2e553050ad8.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/53c/53c2dbab17ce1d5b330fa2f76c39b4be.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/a9f/a9f88aa922c4cd1e0c6e066b84367406.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/efb/efb77304df7fd45d5a644767871be96a.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/f93/f930ad5ba356373a95e2221b8794cd25.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/07c/07caaea16240fe5ccd6d75dfd782a7af.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/5d6/5d60011e677f6d93ddfd5b6ff1bb421f.png</picture>
+                <vat>5</vat>
+                <shipment-options>
+                    <option days="0" order-before="8"/>
+                </shipment-options>
+                <vendor>Ridex</vendor>
+                <vendorCode>ЦБ-00002847</vendorCode>
+                <barcode>4680459209702</barcode>
+                <description>Яркий, стильный, полный энергии – именно так можно описать скейтборд RIDEX Sign. Он станет прекрасным выбором для скейтеров с 9 лет и старше, которые стремятся освоить скейтбординг и наслаждаться скоростью и свободой.
+Мягкие бушинги позволят легко маневрировать и поворачивать на малых скоростях, а колеса жесткостью 92А откроют еще больше возможностей для выполнения трюков. Устойчивая дека с прогибом Concave Low идеально подойдет для обычного катания, а также знакомств с рампами и пулами. Цепкая шкурка надежно удержит ноги и позволит чувствовать себя еще увереннее. Уникальный дизайн RIDEX Sign точно покорит сердца юных скейтеров! Динамичный и запоминающийся, он поможет получать новые эмоции и осваивать трюки, а красные болты на носу доски позволят молниеносно определить нужную сторону скейта, чтобы начать движение. С Sign вам больше не нужно искать знаки, чтобы решиться пойти в скейт-парк, возьмите его в руку и покоряйте улицы и рампы вместе с RIDEX.
+Преимущества:
+Высокая маневренность;
+Сглаживает неровности дорожного покрытия;
+Подходит для начинающих райдеров;
+Нос скейтборда отмечен контрастными болтами;
+Низкий конкейв.
+Характеристики:
+Размер деки: 29,625" x 7,375"
+Материал деки: 7 слоев китайского клена
+Шкурка: OWA80
+Размер подвески: 5"
+Материал подвески: алюминий
+Прокладка (рейзеры, высота, мм): 4
+Бушинги, жесткость: 85А
+Бушинги, материал: ПУ
+Колеса, размер, мм: 52 x 32
+Колеса, жесткость, A: 92А
+Материал колес: ПУ
+Подшипники: ABEC-5  Carbon
+Тип упаковки: прозрачный пакет
+Максимальный вес пользователя, кг: 50</description>
+                <outlets>
+                    <outlet id="91867" instock="1335" />
+                </outlets>
+                <param name="Габариты" unit="СМ">760 x 230 x 170</param>
+                <param name="Вес" unit="КГ">2</param>
+            </offer>
+            <offer id="2109109" available="true">
+                <name>Скейтборд Malibu 31.6"x8"</name>
+                <price>4729</price>
+                <oldprice>5069</oldprice>
+                <categoryId>118</categoryId>
+                <picture>https://prime-sport.ru/upload/iblock/9cb/9cb01d814fb06e528d6b0a6f3fa2f8b2.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/ee5/ee59000ebd4218889e544e92afae19a9.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/d2c/d2c8058b1cdf13e32bb081ee308e9b12.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/5ed/5ede061d902260e896b1d5163134429b.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/ff9/ff99fbe86bb46bfa63fb6e5a7ca6c429.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/097/097bed2ed1e2753cfb5a7cbdd0f59d74.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/9eb/9ebb06a5d20d40d33d470944f2e4c992.png</picture>
+                <vat>5</vat>
+                <shipment-options>
+                    <option days="0" order-before="8"/>
+                </shipment-options>
+                <vendor>Ridex</vendor>
+                <vendorCode>ЦБ-00002848</vendorCode>
+                <barcode>4680459209719</barcode>
+                <description>Волшебный мир скейтбординга раскрывает свои тайны с моделью RIDEX Malibu. Этот скейтборд станет идеальным партнером для вас, если вы ищете доску, которая успешно сочетает в себе стиль, прочность и безграничные возможности.
+Скейтборд RIDEX Malibu покорил сердца райдеров и стал настоящим бестселлером благодаря своим характеристикам. Мягкие бушинги позволят легко маневрировать и поворачивать на малых скоростях, а колеса жесткостью 92А откроют еще больше возможностей для выполнения трюков. Универсальная дека с изгибом Concave Medium идеальна для стрита и верта, она удовлетворит потребности каждого скейтера, а цепкая шкурка OWA80 добавит маневренности в управлении.
+RIDEX Malibu обладает отличной стабильностью, что позволит вам осуществить самые запоминающиеся трюки. Дека из 8 слоев клена обеспечивает надежность и выдерживает вес до 80 кг. Сочный дизайн не оставит равнодушных: принт на доске слишком хорош, чтобы оставлять его с одной стороны, поэтому мы добавили яркий акцент и на шкурку. Маневренная, стильная, запоминающаяся – Malibu поможет почувствовать себя голливудской звездой в любом скейт-парке или на улицах города.
+Преимущества:
+Маневренная модель;
+Готовый комплект;
+Симметричные Ноуз и Тейл;
+Цепкая шкурка OWA80;
+Выдерживает до 80 кг;
+Средний конкейв.
+Характеристики:
+Размер деки: 31,6"x8"
+Материал деки: 8 слоев клена
+Шкурка: OWA80
+Размер подвески: 5"
+Материал подвески: алюминий
+Прокладка (рейзеры, высота, мм): 4
+Бушинги, жесткость: 85А
+Бушинги, материал: ПУ
+Колеса, размер, мм: 52 x 32
+Колеса, жесткость, A: 92А
+Материал колес: ПУ
+Подшипники: ABEC-5  Carbon
+Тип упаковки: прозрачный пакет
+Максимальный вес пользователя, кг: 80</description>
+                <outlets>
+                    <outlet id="91867" instock="794" />
+                </outlets>
+                <param name="Габариты" unit="СМ">830 x 270 x 170</param>
+                <param name="Вес" unit="КГ">2.19</param>
+            </offer>
+            <offer id="2109111" available="true">
+                <name>Скейтборд Crypt 31.6"х7.75"</name>
+                <price>4829</price>
+                <oldprice>5069</oldprice>
+                <categoryId>118</categoryId>
+                <picture>https://prime-sport.ru/upload/iblock/0cd/0cd7d63ba5cebf5feec0b676ffd86bd4.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/741/7418a0904399a67d4c0267c94ad0ae13.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/86b/86ba3b47e4b3ae32a6a6d163602ae487.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/236/2368311913eb9b3521d2a2ad7c9dacee.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/2b1/2b17d8e39a5fbbae75e65e3e75a6b6dc.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/f41/f41a8ce57b1fd05401e1f761178ff0f4.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/19f/19f2c51fb359841f327bc9afb5be9af0.png</picture>
+                <vat>5</vat>
+                <shipment-options>
+                    <option days="0" order-before="8"/>
+                </shipment-options>
+                <vendor>Ridex</vendor>
+                <vendorCode>ЦБ-00002849</vendorCode>
+                <barcode>4680459209726</barcode>
+                <description>Скейтборд RIDEX Crypt - яркое проявление стиля и познания искусства скейтбординга. Его длина идеальна для райдеров с ростом 160 сантиметров и выше. Жесткие колеса 99А обеспечат надежное сцепление с поверхностью, что делает его непобедимым на гладких дорожках. Они помогут райдеру выполнять сложные трюки, не теряя скорости. Мягкие бушинги позволят легко маневрировать и поворачивать при небольшом разгоне, а универсальная дека с изгибом Concave Medium, идеальная для стрита и верта, удовлетворит потребности каждого скейтера. Дека из 8 слоев клена обеспечит надежность и выдержит вес до 80 кг. Яркий принт с обеих сторон не останется незамеченным на улицах и скейт-парках. Выходите из сумрака, пора удивлять друзей своими новыми трюками!
+Преимущества:
+Жесткие колеса;
+Яркий дизайн доски;
+Симметричные Ноуз и Тейл;
+Средний конкейв.
+Характеристики:
+Размер деки: 31,6"х7,75"
+Материал деки: 8 слоев клена
+Шкурка: OWA80
+Размер подвески: 5"
+Материал подвески: алюминий
+Прокладка (рейзеры, высота, мм): 4
+Бушинги, жесткость: 85А
+Бушинги, материал: ПУ
+Колеса, размер, мм: 52 x 32
+Колеса, жесткость, A: 99А
+Материал колес: ПУ
+Подшипники: ABEC-5  Carbon
+Тип упаковки: прозрачный пакет
+Максимальный вес пользователя, кг: 80</description>
+                <outlets>
+                    <outlet id="91867" instock="1143" />
+                </outlets>
+                <param name="Габариты" unit="СМ">830 x 270 x 170</param>
+                <param name="Вес" unit="КГ">2.14</param>
+            </offer>
+            <offer id="2109112" available="true">
+                <name>Скейтборд Mural 31.75"х8"</name>
+                <price>6399</price>
+                <oldprice>8709</oldprice>
+                <categoryId>118</categoryId>
+                <picture>https://prime-sport.ru/upload/iblock/89c/89cdde19cd732be5108f989a2b942f51.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/8b1/8b16bf31a16b21dd5792b396fa837725.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/0c3/0c3177df98e539138445ab90d2d39532.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/6ce/6ceed0c703846d5166fddf91f9ea5704.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/bde/bde61a4423b0a16dddb3b6597c8c7f27.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/b2a/b2ad522d7da57a8c13d05d4a4a5a7407.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/8c5/8c56c1b3bc6ad1da3e558b7dc640bdd4.png</picture>
+                <vat>5</vat>
+                <shipment-options>
+                    <option days="0" order-before="8"/>
+                </shipment-options>
+                <vendor>Ridex</vendor>
+                <vendorCode>ЦБ-00002850</vendorCode>
+                <barcode>4680459209733</barcode>
+                <description>Скейтборд RIDEX Mural - предмет искусства на колесах. Он найдет место в сердце каждого любителя городской культуры и адреналина.  Эта доска подходит для всех стилей катания. Не секрет, что скорость и уверенность в движении - основные части головоломки городского скейтбординга. И у данного скейта есть все, что для этого нужно. Колеса диаметром 52 мм обеспечивают быстрый разгон и позволяют осуществлять плавные маневры. Подшипники ABEC-7 гарантируют отличный накат и безупречную проходимость по разным поверхностям. Семь слоев канадского клена выдерживают вес до 120 килограмм, а бушинги 90А помогают наслаждаться плавной ездой даже по неровной дороге. Дека с прогибом Concave Deep обеспечивают отличную реакцию скейтборда на развороты и вращения, она идеальна для райдеров, которые любят делать флипы и закручивать доску. Уникальный двусторонний дизайн деки делает скейт еще более ярким и запоминающимся. Этот Mural не должен висеть на стене, он достоин блистать на улицах и в скейт-парках города!
+Преимущества:
+Колеса средней жесткости;
+Подшипники ABEC-7;
+Симметричные Ноуз и Тейл;
+Глубокий конкейв.
+Характеристики:
+Размер деки: 31,75"х8"
+Материал деки: 7 слоев канадского клена
+Шкурка: OWA80
+Размер подвески: 5.25"
+Материал подвески: алюминий
+Прокладка (рейзеры, высота, мм): 4
+Бушинги, жесткость: 90А
+Бушинги, материал: ПУ
+Колеса, размер, мм: 52 x 32
+Колеса, жесткость, A: 95А
+Материал колес: ПУ
+Подшипники: ABEC-7 Chrome
+Тип упаковки: прозрачный пакет
+Максимальный вес пользователя, кг: 120</description>
+                <outlets>
+                    <outlet id="91867" instock="359" />
+                </outlets>
+                <param name="Габариты" unit="СМ">830 x 270 x 170</param>
+                <param name="Вес" unit="КГ">2.45</param>
+            </offer>
+            <offer id="2109113" available="true">
+                <name>Скейтборд Vita 31.65"х8.25"</name>
+                <price>7049</price>
+                <oldprice>8909</oldprice>
+                <categoryId>118</categoryId>
+                <picture>https://prime-sport.ru/upload/iblock/b44/b443f32f80344b460a579f9cd869c301.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/36a/36a6ad461902b9820001ec013d3e768f.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/0a9/0a9514a8039242ca1ca6b7e2f3ac07cb.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/70c/70c5b55991aa5cb1b5404e1cb5a9aa73.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/3bd/3bddd260f90524e2e81b9275f164025a.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/b84/b84485cd8b8addd47c3777495cdbb866.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/ebc/ebcdebeb865db3cd9fc8935b5b30ac0a.png</picture>
+                <vat>5</vat>
+                <shipment-options>
+                    <option days="0" order-before="8"/>
+                </shipment-options>
+                <vendor>Ridex</vendor>
+                <vendorCode>ЦБ-00002851</vendorCode>
+                <barcode>4680459209740</barcode>
+                <description>Скейтборд RIDEX Vita - идеальный спутник для тех, кто любит свободу движения и адреналин в крови. Доска обладает всеми необходимыми характеристиками, чтобы удовлетворить даже самого требовательного райдера. Колеса диаметром 52 мм и жесткостью 95А гарантируют быстрый разгон, а подшипники ABEC-7 придают отличный накат. Дека с прогибом Concave Deep обеспечивает отличную реакцию скейтборда на развороты и вращения, она идеальна для райдеров, которые любят делать флипы и закручивать доску. Семь слоев канадского клена позволяют скейту выдерживать вес до 120 килограмм, а бушинги 90А – наслаждаться плавной ездой даже по неровным поверхностям. Уникальный двусторонний дизайн деки, выполненный с использованием фольгированной поверхности, делает скейт еще более ярким и запоминающимся. Скейтборд RIDEX Vita - не просто универсальная доска для катания, это средство самовыражения и стиля.
+Преимущества:
+Колеса средней жесткости;
+Подшипники ABEC-7;
+Фольгированная поверхность деки;
+Глубокий конкейв.
+Характеристики:
+Размер деки: 31,65"х8,25"
+Материал деки: 7 слоев канадского клена
+Шкурка: OWA80
+Размер подвески: 5.25"
+Материал подвески: алюминий
+Прокладка (рейзеры, высота, мм): 4
+Бушинги, жесткость: 90А
+Бушинги, материал: ПУ
+Колеса, размер, мм: 52 x 32
+Колеса, жесткость, A: 95А
+Материал колес: ПУ
+Подшипники: ABEC-7 Chrome
+Тип упаковки: прозрачный пакет
+Максимальный вес пользователя, кг: 120</description>
+                <outlets>
+                    <outlet id="91867" instock="347" />
+                </outlets>
+                <param name="Габариты" unit="СМ">830 x 270 x 170</param>
+                <param name="Вес" unit="КГ">2.46</param>
+            </offer>
+            <offer id="2109114" available="true">
+                <name>Скейтборд Horror 31.2"х7.75"</name>
+                <price>8799</price>
+                <oldprice>9549</oldprice>
+                <categoryId>118</categoryId>
+                <picture>https://prime-sport.ru/upload/iblock/dd9/dd97aa6afaf044201371d9bd47e9536e.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/dfd/dfdb21393f3e9af6663875d90de5b7f7.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/306/3064b59d0b65f49c37de3e89d9b734ba.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/06f/06f2256ec16227fe742339efc6ac2012.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/7ff/7ff497117d035e2c8b0180ece013695f.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/f84/f84583b98cea7eeefcfac3f762a5d115.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/de0/de0535f9fdce54e2b06e41fc7ece829f.png</picture>
+                <vat>5</vat>
+                <shipment-options>
+                    <option days="0" order-before="8"/>
+                </shipment-options>
+                <vendor>Ridex</vendor>
+                <vendorCode>ЦБ-00002852</vendorCode>
+                <barcode>4680459209757</barcode>
+                <description>Скейтборд RIDEX Horror - находка для всех любителей активного отдыха и трюков на колесах. Сочетание современного дизайна и передовых материалов делает эту доску желанной для каждого райдера. Приготовьтесь к увлекательным приключениям вместе с этим скейтом! Легкая и прочная дека из канадского клена и файбергласса – то, что нужно профессиональной доске для скейтпарка. Мы использовали колеса диаметром 52 мм для быстрого разгона и подшипники ABEC-7 для отличного наката. Этот трюковой скейтборд способен на многое: жесткие колеса 99А придают оптимальное сцепление с покрытиями в скейтпарке и идеальны для более гладких поверхностей. Борд отлично слайдит и стопорит. Дека с прогибом Concave Low обеспечивает отличную реакцию скейтборда на развороты и вращения, она идеальна для райдеров, которые любят делать флипы и закручивать доску. Красочный дизайн не оставит равнодушных. Страшно стильный и жутко эффектный – это ваш Horror.
+Преимущества:
+Жесткие колеса;
+Подшипники ABEC-7;
+Канадский клен и файбергласс;
+Низкий конкейв.
+Характеристики:
+Размер деки: 31,2"х7,75"
+Материал деки: 6 слоев канадского клена + 1 слой файбергласс
+Шкурка: OWA80
+Размер подвески: 5"
+Материал подвески: алюминий
+Прокладка (рейзеры, высота, мм): 4
+Бушинги, жесткость: 90А
+Бушинги, материал: ПУ
+Колеса, размер, мм: 52 x 32
+Колеса, жесткость, A: 99А
+Материал колес: ПУ
+Подшипники: ABEC-7 Chrome
+Тип упаковки: прозрачный пакет
+Максимальный вес пользователя, кг: 120</description>
+                <outlets>
+                    <outlet id="91867" instock="282" />
+                </outlets>
+                <param name="Габариты" unit="СМ">830 x 270 x 170</param>
+                <param name="Вес" unit="КГ">2.37</param>
+            </offer>
+            <offer id="2109115" available="true">
+                <name>Скейтборд Cruft 29"х7.6"</name>
+                <price>4419</price>
+                <oldprice>4639</oldprice>
+                <categoryId>118</categoryId>
+                <picture>https://prime-sport.ru/upload/iblock/2f1/2f168cc822e2171f1d8d5b31d3416d44.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/4b2/4b25c9801af47f6ca34cd4c361adda74.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/df8/df80561204d6a1b243745c08f040bb8a.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/c99/c9996eba6c9d0b8cbe92174dfec86973.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/e61/e618d498eefb46dd804a467263941bae.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/66b/66bcf818d7c887b8bc89f3932383351b.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/748/7482c10d5a5339e372664330281760f3.png</picture>
+                <vat>5</vat>
+                <shipment-options>
+                    <option days="0" order-before="8"/>
+                </shipment-options>
+                <vendor>Ridex</vendor>
+                <vendorCode>ЦБ-00002853</vendorCode>
+                <barcode>4680459209764</barcode>
+                <description>Скейтборд RIDEX Cruft – идеальное решение для настоящих любителей скорости и экстремального веселья. Мы использовали колеса диаметром 52 мм для быстрого разгона и бушинги 90А для плавной езды даже по неровной дороге. Этот трюковой скейтборд способен на многое: жесткие колеса 99А придают оптимальное сцепление с покрытиями в скейтпарке и идеальны для более гладких поверхностей. Он отлично слайдит и стопорит. Скейтборд прекрасно подходит для выполнения трюков благодаря своей короткой доске. Дека с прогибом Concave Deep обеспечивает хорошую реакцию скейтборда на развороты и вращения, она идеальна для райдеров, которые любят делать флипы и закручивать доску. Семь слоев клена выдерживают вес до 50 килограмм. Красочный и стильный, Cruft поможет получать новые эмоции и осваивать трюки, а синие болты на носу доски позволят молниеносно определить нужную сторону скейта, чтобы начать движение.
+Преимущества:
+Жесткие колеса;
+Нос скейтборда отмечен контрастными болтами;
+Глубокий конкейв;
+Яркий дизайн.
+Характеристики:
+Размер деки: 29"х7,6"
+Материал деки: 7 слоев клена
+Шкурка: OWA80
+Размер подвески: 5"
+Материал подвески: алюминий
+Прокладка (рейзеры, высота, мм): 4
+Бушинги, жесткость: 90А
+Бушинги, материал: ПУ
+Колеса, размер, мм: 52 x 32
+Колеса, жесткость, A: 99А
+Материал колес: ПУ
+Подшипники: ABEC-5 Carbon
+Тип упаковки: прозрачный пакет
+Максимальный вес пользователя, кг: 50</description>
+                <outlets>
+                    <outlet id="91867" instock="470" />
+                </outlets>
+                <param name="Габариты" unit="СМ">760 x 230 x 170</param>
+                <param name="Вес" unit="КГ">2</param>
+            </offer>
+            <offer id="2109116" available="true">
+                <name>Скейтборд Rumbling 31.65"х8.25"</name>
+                <price>3819</price>
+                <oldprice>4719</oldprice>
+                <categoryId>118</categoryId>
+                <picture>https://prime-sport.ru/upload/iblock/6a9/6a9b6b4c00b0b9b1f7428754b628200b.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/feb/febf2d1d21e66d0b437ca009f134d733.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/771/7718f14cf7e64a28b648f6742d2f7ea4.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/a60/a60f24f4e5622721ed5199b714ac2de2.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/02c/02c51a3bec265e4704add472e57a0151.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/057/0570419bfeadf3e8b489233f7432c8e7.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/218/218ab048c1e6df08dca224c39b18c9c7.png</picture>
+                <vat>5</vat>
+                <shipment-options>
+                    <option days="0" order-before="8"/>
+                </shipment-options>
+                <vendor>Ridex</vendor>
+                <vendorCode>ЦБ-00002854</vendorCode>
+                <barcode>4680459209771</barcode>
+                <description>Трюковый скейтборд RIDEX Rumbling - истинная находка для любителей экстрима и скорости. Универсальная дека с изгибом Concave Medium идеальна для стрита и верта, она удовлетворит потребности каждого скейтера. Мы использовали колеса диаметром 52 мм для быстрого разгона и бушинги 95А для плавной езды даже по неровной дороге. Жесткие колеса 99А придают оптимальное сцепление с покрытиями в скейтпарке и идеальны для более гладких поверхностей. Он отлично слайдит и стопорит. Дека из 8 слоев клена обеспечит надежность и выдержит вес до 80 кг. Яркий принт с обеих сторон не останется незамеченным на улицах и скейт-парках. Открывайте новые способы самовыражения вместе с ярким скейтом RIDEX Rumbling!
+Преимущества:
+Жесткие колеса;
+Оригинальный яркий дизайн;
+Средний конкейв.
+Характеристики:
+Размер деки: 31,65"х8,25"
+Материал деки: 8 слоев китайского клена
+Шкурка: OWA80
+Размер подвески: 5.25"
+Материал подвески: алюминий
+Прокладка (рейзеры, высота, мм): 4
+Бушинги, жесткость: 95А
+Бушинги, материал: ПУ
+Колеса, размер, мм: 52 x 32
+Колеса, жесткость, A: 99А
+Материал колес: ПУ
+Подшипники: ABEC-5 Carbon
+Тип упаковки: прозрачный пакет
+Максимальный вес пользователя, кг: 80</description>
+                <outlets>
+                    <outlet id="91867" instock="1416" />
+                </outlets>
+                <param name="Габариты" unit="СМ">830 x 270 x 170</param>
+                <param name="Вес" unit="КГ">2.26</param>
+            </offer>
+            <offer id="2109122" available="true">
+                <name>Лонгборд Aquatica 38"x9"</name>
+                <price>8079</price>
+                <oldprice>8659</oldprice>
+                <categoryId>441</categoryId>
+                <picture>https://prime-sport.ru/upload/iblock/e49/e4983d68c31bf98e564a355090f1e2bb.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/8a2/8a2011e3eadd25f5eb1e7e4c7e509b88.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/fe3/fe3ccee30d5c98aca61eeeb2d7c85612.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/d99/d99b263259b2174b0e62eb917fee43d0.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/95d/95d70f0346d95a636f02acd6d20905bd.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/0ff/0ffc31c19524f8e6cdb8549441785770.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/fb6/fb66c5788004e215ebca941d0eef7779.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/ba6/ba66f473f3e45acd1578d4daf298836f.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/dc0/dc09c0f7f3aa9002acd1b05e3800ee32.png</picture>
+                <vat>5</vat>
+                <shipment-options>
+                    <option days="0" order-before="8"/>
+                </shipment-options>
+                <vendor>Ridex</vendor>
+                <vendorCode>ЦБ-00002860</vendorCode>
+                <barcode>4680459209832</barcode>
+                <description>RIDEX Aquatica – эффектный лонгборд, который сделает каждую поездку по городу незабываемой. Его смело можно назвать одной из самых комфортных и устойчивых моделей, идеально подходящей для круизинга и карвинга. Широкие и мягкие колеса диаметром 70 мм помогут справиться с неровностями на асфальте, а накатистые подшипники ABEC-9 Chrome сохранят скорость и улучшат разгон. Двойной конкейв упростит управление лонгбордом, а длинная и прочная восьмислойная дека выдержит нагрузку до 120 килограмм. Расскажите свою историю с помощью лонгборда RIDEX Aquatica, объединив свои навыки с его эффектным дизайном. Мощный и надежный, он станет прекрасным спутником как для любителей, так и для опытных райдеров, которые уже привыкли погружаться в море скорости и эмоций.
+Преимущества:
+Подходит для преодоления больших расстояний;
+Широкие и мягкие колеса сглаживают неровности асфальта;
+Маневренная и устойчивая модель;
+Накатистые подшипники ABEC-9;
+Pintail, двойной конкейв.
+Характеристики:
+Размер деки: 38"x9"
+Материал деки: 8 слоев северо-восточного клена
+Шкурка: OWA80
+Размер подвески: 7"
+Материал подвески: алюминий
+Прокладка (рейзеры, высота, мм): 8
+Бушинги, жесткость: 85А
+Бушинги, материал: ПУ
+Колеса, размер, мм: 70 x 51
+Колеса, жесткость, A: 78А
+Материал колес: ПУ
+Подшипники: ABEC-9 Chrome
+Тип упаковки: прозрачный пакет
+Максимальный вес пользователя, кг: 120</description>
+                <outlets>
+                    <outlet id="91867" instock="239" />
+                </outlets>
+                <param name="Габариты" unit="СМ">1140 x 250 x 150</param>
+                <param name="Вес" unit="КГ">3.26</param>
+            </offer>
+            <offer id="2109126" available="true">
+                <name>Лонгборд Zen 37"x8.75"</name>
+                <price>6659</price>
+                <oldprice>8749</oldprice>
+                <categoryId>441</categoryId>
+                <picture>https://prime-sport.ru/upload/iblock/20d/20dd7281f97a60dd822ab310cdfd23ef.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/af8/af8c2b547e5cf595ff44fa2bd7260c91.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/d4a/d4a009b7b16a5e323b67ca356989582a.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/5fc/5fc20bbef48cc79a2167e340bfb0ff6d.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/0d0/0d08c36501881d58360ee1134004cce4.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/4ea/4ea1f08c9b19247b153cb81887da2266.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/7e4/7e4eaf2a387204e9496dcbebc71972ae.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/24e/24e1083c529549610a0f1a4071752af5.png</picture>
+                <vat>5</vat>
+                <shipment-options>
+                    <option days="0" order-before="8"/>
+                </shipment-options>
+                <vendor>Ridex</vendor>
+                <vendorCode>ЦБ-00002863</vendorCode>
+                <barcode>4680459209863</barcode>
+                <description>RIDEX Zen – изысканный лонгборд для тех, кто умеет наслаждаться жизнью. Маневренный и надежный, он идеален для фрирайда и даунхилла. Заниженный центр тяжести, хорошая устойчивость и стабильность на скорости - эта модель не оставляет равнодушных. Подвеска Drop Through упрощает толчок от земли, поэтому эта доска станет отличным выбором как для опытного райдера, так и для новичка. Широкие и мягкие колеса диаметром 70 мм помогают справиться с неровностями на асфальте, накатистые подшипники ABEC-9 Chrome сохраняют скорость и улучшают разгон. Двойной конкейв упрощает управление лонгбордом, а длинная и прочная дека из восьми слоев российского клена выдерживает нагрузку до 120 килограмм. Zen – идеальная доска для скоростных и техничных поездок. Позвольте себе насладиться свободой передвижения, отвлекаясь от городской суеты. И вам никто не помешает, ведь у вас есть свой Zen.
+Преимущества:
+Подходит для преодоления больших расстояний;
+Широкие и мягкие колеса сглаживают неровности асфальта;
+Маневренная модель;
+Накатистые подшипники ABEC-9;
+Подвеска Drop Through.
+Характеристики:
+Размер деки: 37"x8,75"
+Материал деки: 8 слоев российского клена
+Шкурка: OWA80
+Размер подвески: 7"
+Материал подвески: алюминий
+Бушинги, жесткость: 85А
+Бушинги, материал: ПУ
+Колеса, размер, мм: 70 x 51
+Колеса, жесткость, A: 78А
+Материал колес: ПУ
+Подшипники: ABEC-9 Chrome
+Тип упаковки: прозрачный пакет
+Максимальный вес пользователя, кг: 120</description>
+                <outlets>
+                    <outlet id="91867" instock="488" />
+                </outlets>
+                <param name="Габариты" unit="СМ">1140 x 250 x 150</param>
+                <param name="Вес" unit="КГ">3.12</param>
+            </offer>
+            <offer id="2109127" available="true">
+                <name>Лонгборд Snake 44"x9"</name>
+                <price>11659</price>
+                <oldprice>12489</oldprice>
+                <categoryId>441</categoryId>
+                <picture>https://prime-sport.ru/upload/iblock/c0a/c0a628c9036cffe0c6e85b9f2b9349db.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/6cc/6cc67b3d9bc54655ab2c8bac0bd5c5e1.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/d9d/d9d61c262d13c82741359b8e43856620.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/5ce/5ced0ea37e67d62d8fe472c25f3d5103.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/c3d/c3d0031ca2456d133e26963f3ab2bed6.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/555/55529c855d8cf869cea51b5e5a38519f.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/499/499dac1e1b576afbc06a0f14d87326f9.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/be3/be36b02eac875ef2e0e0c6b2a1d20137.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/0fe/0fea575a367e65865176a72cafb0e629.png</picture>
+                <vat>5</vat>
+                <shipment-options>
+                    <option days="0" order-before="8"/>
+                </shipment-options>
+                <vendor>Ridex</vendor>
+                <vendorCode>ЦБ-00002864</vendorCode>
+                <barcode>4680459209870</barcode>
+                <description>RIDEX Snake – запоминающийся лонгборд для тех, кто умеет брать от жизни по максимуму. Эффектный, стильный и надежный, он идеален для дайсинга, слайда, фрирайда и даунхилла. Традиционная конструкция, маневренность и стабильность на скорости - эта модель поможет вам выразить свою индивидуальность и продемонстрировать возможности. Универсальная подвеска Top Mount станет отличным выбором как для опытного райдера, так и для новичка. Широкие и мягкие колеса диаметром 70 мм помогут справиться с неровностями на асфальте, накатистые подшипники ABEC-9 Chrome сохранят скорость и улучшат разгон. Двойной конкейв упростит управление лонгбордом, а длинная и прочная дека из восьми слоев канадского клена выдержит нагрузку до 120 килограмм. Наслаждайтесь своим путешествием, не отвлекаясь от собственных эмоций: ниши для колес предотвратят закусывание колес во время движения.  Snake – идеальная доска для скоростных и техничных поездок. Впечатляйте окружающих мастерством и, конечно, эффектным дизайном своего лонгборда!
+Преимущества:
+Подходит для преодоления больших расстояний;
+Широкие и мягкие колеса сглаживают неровности асфальта;
+Маневренная модель;
+Накатистые подшипники ABEC-9;
+Ниши для колес;
+Подвеска Top Mount.
+Характеристики:
+Размер деки: 44"x9"
+Материал деки: 8 слоев канадского клена
+Шкурка: OWA80
+Размер подвески: 7"
+Материал подвески: алюминий
+Прокладка (рейзеры, высота, мм): 6
+Бушинги, жесткость: 85А
+Бушинги, материал: ПУ
+Колеса, размер, мм: 70 x 51
+Колеса, жесткость, A: 78А
+Материал колес: ПУ
+Подшипники: ABEC-9 Chrome
+Тип упаковки: прозрачный пакет
+Максимальный вес пользователя, кг: 120</description>
+                <outlets>
+                    <outlet id="91867" instock="188" />
+                </outlets>
+                <param name="Габариты" unit="СМ">1140 x 250 x 150</param>
+                <param name="Вес" unit="КГ">3.76</param>
+            </offer>
+            <offer id="2109128" available="true">
+                <name>Лонгборд Roze 40"x8.75"</name>
+                <price>8499</price>
+                <oldprice>11149</oldprice>
+                <categoryId>441</categoryId>
+                <picture>https://prime-sport.ru/upload/iblock/0a6/0a6c0cb4bd89c7b2cefeeab515f8502c.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/3cc/3cc78fc54dee9b6077733f35cbd656cb.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/9b9/9b91ae2afe19608f30c125a5a5b0f722.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/53d/53d3cf521496eb88eb08a1d6da40b914.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/c49/c49466ace1b73116e2b75a9756b10f3d.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/ad9/ad9ccb2a572d551fe7226210b3bd227e.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/911/9111dc2375f92c6734dba40813f95c64.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/cd4/cd4455cf7a214e559c0ae652cec34f66.png</picture>
+                <vat>5</vat>
+                <shipment-options>
+                    <option days="0" order-before="8"/>
+                </shipment-options>
+                <vendor>Ridex</vendor>
+                <vendorCode>ЦБ-00002865</vendorCode>
+                <barcode>4680459209887</barcode>
+                <description>RIDEX Roze – эффектный лонгборд для тех, кто умеет производить впечатление на окружающих. Яркий, стильный и надежный, он идеален для фрирайда и даунхилла. Дека не просто выполнена из комбинации долговечных материалов, ее изюминкой являются бамбуковые слои с обеих сторон доски. Прочный и легкий бамбук почти не впитывает влаги, а значит, увеличивает срок жизни вашего лонгборда! Заниженный центр тяжести, хорошая устойчивость и стабильность на скорости - эту модель точно оценят на улицах. Подвеска Drop Through упрощает толчок от земли, поэтому Roze станет отличным выбором как для опытного райдера, так и для новичка. Широкие и мягкие колеса диаметром 70 мм помогут справиться с неровностями на асфальте, накатистые подшипники ABEC-9 Chrome сохранят скорость и улучшат разгон. Двойной конкейв упростит управление, а длинная и прочная дека выдержит нагрузку до 120 килограмм. Roze – идеальная доска для скоростных и техничных поездок. Удивляйте своим мастерством, покоряйте улицы и наслаждайтесь ярким дизайном своего нового лонгборда от RIDEX.
+Преимущества:
+Подходит для преодоления больших расстояний;
+Широкие и мягкие колеса сглаживают неровности асфальта;
+Маневренная модель;
+Накатистые подшипники ABEC-9;
+Подвеска Drop Through;
+Слой бамбука с обеих сторон деки.
+Характеристики:
+Размер деки: 40"x8,75"
+Материал деки: 8 слоев (бамбук + канадский клен)
+Шкурка: OWA80
+Размер подвески: 7"
+Материал подвески: алюминий
+Бушинги, жесткость: 85А
+Бушинги, материал: ПУ
+Колеса, размер, мм: 70 x 51
+Колеса, жесткость, A: 78А
+Материал колес: ПУ
+Подшипники: ABEC-9 Chrome
+Тип упаковки: прозрачный пакет
+Максимальный вес пользователя, кг: 120</description>
+                <outlets>
+                    <outlet id="91867" instock="465" />
+                </outlets>
+                <param name="Габариты" unit="СМ">1140 x 250 x 150</param>
+                <param name="Вес" unit="КГ">3.35</param>
+            </offer>
+            <offer id="1527736" available="true">
+                <name>Скандинавские палки Phantom, 67-135 см, 3-секционные, карбон/серый/желтый, для треккинга</name>
+                <price>5099</price>
+                <oldprice>5349</oldprice>
+                <categoryId>175</categoryId>
+                <picture>https://prime-sport.ru/upload/iblock/54a/54a37d42412f422aaa275cad1740cc3a.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/69d/69d8ac0e0fef94b4770b9111ea763ed7.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/7e3/7e3abb71ca836cf562d39f0bd4878b26.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/2ba/2ba29ba46eba2dff0f43a828e5868f1f.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/92c/92c52ce637e4ca6e92fa27c055b37403.jpg</picture>
+                <picture>https://prime-sport.ru/upload/iblock/d76/d7606d93993de67824b8d7947bacfa04.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/558/55878da74fb766104c922fe4e35537db.png</picture>
+                <vat>5</vat>
+                <shipment-options>
+                    <option days="0" order-before="8"/>
+                </shipment-options>
+                <vendor>Berger</vendor>
+                <vendorCode>УТ-00019915</vendorCode>
+                <barcode>4680459128126</barcode>
+                <description>Треккинговые палки BERGER Phantom – модель, которая позволит покорить любую вершину. Активные тренировки или неспешная прогулка по улицам позволят улучшить физические показатели, укрепить здоровье и поднять настроение, а Phantom поможет сделать занятия спортом еще комфортнее.
+Трехсекционные палки для треккинга компактны и просты в транспортировке. Их легко убрать в спортивную сумку или взять с собой в отпуск. Эксклюзивный представитель BERGER – модель изготовлена из 100% карбона - редкого и уникального материала. Сверхпрочный и самый легкий, из него изготавливаются самые лучшие палки для хайкинга, он минимизирует ударную нагрузку и позволяет виброволне уходить в грунт или асфальт. Алюминиевые клипсы, скрепляющие секции, делают Phantom еще крепче и универсальнее, а стальной наконечник надежно фиксирует палку во время ходьбы.
+Безопасная эксплуатация и удобство использования - карбоновые треккинговые палки созданы, чтобы спорт был в радость. Удобная, приятная к коже и цепкая петля позволяет сбросить палки в любой момент во время ходьбы или взбирания на сложный ландшафт, а ручка из высококачественной EVA-пены надежно сидит в руке, имеет отличное сцепление с ладонью и прекрасно впитывает влагу. В комплект также входят наконечники, ограничительные кольца и чехол с плечевой лямкой.
+Преимущества:
+100% карбон;
+Алюминиевые клипсы;
+Высококачественная анатомическая ручка из EVA-пены;
+Стальной наконечник;
+Чехол с плечевой лямкой в комплекте.
+Характеристики:
+Материал палки: карбон 100%
+Количество секций: 3
+Диаметр секций, мм: 16/14/12
+Система крепления: алюминиевые клипсы для мощного крепления секций между собой
+Наличие анти-шок системы: выбрация гасится за счет поглощения карбоном
+Минимальная длина палки, см: 67
+Максимальная длина палки, см: 135
+Максимальный вес пользователя, кг: 120
+Материал ручек: EVA-пена
+Длина ручки, см: 16,5
+Тип перчатки: петля усиленная со сцеплением
+Материал перчатки/стрепа: полиэстер с логотипом Berger
+Длина перчатки/темляка, см: 55
+Ширина перчатки/темляка, см: 2,5
+Количество насадок в комплекте, шт: 2
+Количество колец ограничительных, шт: 2
+Диаметр ограничительных колец, см: 5,3
+Толщина ограничительных колец, мм: 3
+Материал наконечника: сталь
+Вес пары палок без упаковки, гр: 400
+Комплектация: чехол с плечевой лямкой в комплекте
+Тип упаковки: индивидуальный запаянный пакет</description>
+                <outlets>
+                    <outlet id="91867" instock="23" />
+                </outlets>
+                <param name="Габариты" unit="СМ">710 x 60 x 40</param>
+                <param name="Вес" unit="КГ">0.7</param>
+            </offer>
+            <offer id="1527728" available="true">
+                <name>Скандинавские палки Nimbus, 77-135 см, 2-секционные, черный/голубой</name>
+                <price>1699</price>
+                <oldprice>1779</oldprice>
+                <categoryId>175</categoryId>
+                <picture>https://prime-sport.ru/upload/iblock/2fc/2fc4e9b0e17f80399d167d04e5299ef4.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/f4c/f4c6b454cb7ace3e50a4802e1264cfe9.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/644/644d40818be290406fd6b4c746da496f.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/11b/11beb26dd9d987136db9e92c4cb5bd70.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/f14/f14df7ba92230a488cc715fcf54bd8dc.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/c7a/c7ae2e63c9eb68b1cf6c9d8edbe09e3f.jpg</picture>
+                <picture>https://prime-sport.ru/upload/iblock/5ff/5ff1b23eb5baea672cf55e0808656f89.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/e77/e776a465a9512fb7b6503f823f2c0754.jpg</picture>
+                <vat>5</vat>
+                <shipment-options>
+                    <option days="0" order-before="8"/>
+                </shipment-options>
+                <vendor>Berger</vendor>
+                <vendorCode>УТ-00019911</vendorCode>
+                <barcode>4680459128089</barcode>
+                <description>Скандинавские палки BERGER Nimbus – модель для интенсивных тренировок или классических прогулок. Они помогают правильно распределять нагрузку при движении, позволяют задействовать большинство групп мышц и благотворно влияют на общее самочувствие.
+Модель Nimbus оптимальна для регулярной эксплуатации. Она состоит из двух секций и изготовлена из прочного алюминия 6061. Максимальное удобство обеспечивает анатомический темляк для скандинавских палок, который исключает выпадание из кисти во время тренировки. Дополнительная амортизация благодаря анти-шок системе, наконечник из стали для надежной фиксации при ходьбе, - палки для скандинавской ходьбы Nimbus станут прекрасным помощником, позволяющим бережно поддерживать свое физическое здоровье на должном уровне. В комплект входят наконечники и ограничительные кольца.
+Бюджетная модель с перчаткой-темляком;
+Анти-шок система;
+Пробковая ручка с пластиковой базой;
+Изготовлена из прочного металла.
+Характеристики:
+Материал палки: алюминий 6061
+Количество секций: 2
+Диаметр секций, мм: 16/14
+Наличие анти-шок системы: да
+Минимальная длина палки, см: 77
+Максимальная длина палки, см: 135
+Максимальный вес пользователя, кг: 120
+Материал ручек: пробка + полипропилен
+Длина ручки, см: 15,5
+Тип перчатки: перчатка/темляк
+Материал перчатки/стрепа: полиэстер с логотипом Berger
+Длина перчатки/темляка, см: 32
+Ширина перчатки/темляка, см: 9,5
+Количество насадок в комплекте, шт: 2
+Количество колец ограничительных, шт: 2
+Диаметр ограничительных колец, см: 5,3
+Толщина ограничительных колец, мм: 3
+Материал наконечника: сталь
+Вес пары палок без упаковки, гр: 615
+Тип упаковки: индивидуальный запаянный пакет</description>
+                <outlets>
+                    <outlet id="91867" instock="114" />
+                </outlets>
+                <param name="Габариты" unit="СМ">800 x 60 x 40</param>
+                <param name="Вес" unit="КГ">0.7</param>
+            </offer>
+            <offer id="2103583" available="true">
+                <name>Гантель виниловая DB-101 4 кг, фиолетовый</name>
+                <price>1789</price>
+                <oldprice>1879</oldprice>
+                <categoryId>212</categoryId>
+                <picture>https://prime-sport.ru/upload/iblock/a08/a08ce0802f65d9b5f5f87db88a0f60a6.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/f81/f81e1d1c56207a9301d89a9f59854b54.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/7e7/7e7d3e71acbb11b2d097255fc06a2c2e.jpg</picture>
+                <picture>https://prime-sport.ru/upload/iblock/f0b/f0b6e9623c5518febfea5d13d46fb0b4.jpg</picture>
+                <vat>5</vat>
+                <shipment-options>
+                    <option days="0" order-before="8"/>
+                </shipment-options>
+                <vendor>Starfit</vendor>
+                <vendorCode>ЦБ-00001451</vendorCode>
+                <barcode>4680459178107</barcode>
+                <description>Яркая виниловая гантель 4 кг DB-101 от бренда STARFIT подходит для занятий дома, на улице или в зале. Чтобы вы могли сами подбирать нужные веса, данная модель продается поштучно. Гантели для фитнеса имеют специальное покрытие, которое не царапает поверхность, благодаря ему спортинвентарь также не издает много шума при случайных падениях. Такие гантели будут комфортны в использовании в любое время года! В жаркую погоду поверхность DB-101 не нагреется до обжигающих температур, а зимой ладони не будут мерзнуть. Каждая гантель имеет специальную угловатую форму, которая не позволяет изделию перекатываться, что делает снаряд более удобным как для эксплуатации, так и для хранения. Небольшой вес гантели позволяет пользоваться изделием и мужчинам, и женщинам.
+Преимущества:
+Не создает лишнего шума от соударения с полом;
+Не холодная;
+Форма противостоит перекатыванию.
+Характеристики:
+Цвет: фиолетовый
+Вес без упаковки, кг: 4
+Внешний материал: винил
+Внутренний материал: чугун
+Длина, см: 19,58
+Ширина, см: 9,4
+Высота, см: 9
+Длина хвата, см: 10
+Толщина хвата, см: 4
+Тип упаковки: термоусадочная пленка со стикером
+Количество в упаковке, шт: 1
+Производство: КНР</description>
+                <outlets>
+                    <outlet id="91867" instock="200" />
+                </outlets>
+                <param name="Габариты" unit="СМ">200 x 100 x 90</param>
+                <param name="Вес" unit="КГ">4.075</param>
+            </offer>
+            <offer id="998366" available="true">
+                <name>Диск обрезиненный BB-202 d=26 мм, стальная втулка, черный, 10 кг</name>
+                <price>3709</price>
+                <oldprice>3889</oldprice>
+                <categoryId>273</categoryId>
+                <picture>https://prime-sport.ru/upload/iblock/6d0/6d046a0d617b65b38f5f8844c0fb7561.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/e16/e163ee2404937ae9e654116a885cc8b0.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/474/4747199037baa5dc6d147ed9e4c65466.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/c59/c5963e70226cea98d369820c2bcb3120.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/107/10778148aca69ba771d9824738b90385.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/a5d/a5d776c542852103c73e8376dc2ea6cc.png</picture>
+                <vat>5</vat>
+                <shipment-options>
+                    <option days="0" order-before="8"/>
+                </shipment-options>
+                <vendor>Starfit</vendor>
+                <vendorCode>УТ-00018807</vendorCode>
+                <barcode>4680459117878</barcode>
+                <description>Диск обрезиненный BB-202 от STARFIT - это спортивный инвентарь, предназначенный для обеспечения нужной нагрузки во время тренировок с гантелями или штангой. Данная модель продается поштучно. Блин для штанги или гантели BB-202 дополнен металлической втулкой в посадочном отверстии, позволяющей надевать и снимать диски легко и быстро. Изделие выполнено в индивидуальном дизайне и дополнено логотипом бренда.
+BB-202 имеет обрезиненное покрытие, которое обеспечивает отличную амортизацию с напольным покрытием. Такой спортинвентарь издает меньше шума при случайном падении, не повреждает пол и делает тренировки безопаснее для спортсмена.
+Металлические диски для гантелей и штанг откалиброваны по весу. Каждое изделие весит 10 кг. Инвентарь имеет диаметр отверстия 26 мм, который подходит к большинству стандартных грифов.
+Преимущества:
+Металлическая втулка для удобства надевания и снятия;
+Обрезиненное покрытие для улучшенной амортизации;
+Откалиброван по весу.
+Характеристики:
+Вес, кг: 10
+Внутренний материал: металл
+Внешний материал: резина
+Материал втулки: сталь
+Диаметр посадочного отверстия, см: 2,6
+Диаметр диска, см: 27,5
+Толщина диска, см: 3,6
+Цвет: черный
+Тип упаковки: полиэтиленовый пакет с наклейкой
+Количество в упаковке, шт: 1
+Производство: КНР</description>
+                <outlets>
+                    <outlet id="91867" instock="319" />
+                </outlets>
+                <param name="Габариты" unit="СМ">280 x 280 x 40</param>
+                <param name="Вес" unit="КГ">10.15</param>
+            </offer>
+            <offer id="998365" available="true">
+                <name>Диск обрезиненный BB-202 d=26 мм, стальная втулка, черный, 5 кг</name>
+                <price>2319</price>
+                <oldprice>2429</oldprice>
+                <categoryId>273</categoryId>
+                <picture>https://prime-sport.ru/upload/iblock/70d/70d6394f326a5702cd74b382d979417a.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/e69/e698800ce97afb5dfa6619225cd36464.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/c92/c921577f39b5ce2ed56ae542215303b1.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/24c/24c6459d8ef58fabf1ff111f930884a2.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/3af/3af83a546214e52a8d862e9dbbc11f50.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/ba5/ba5d71ac81e14a708a384ee6353af6b4.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/9a7/9a7e306e5fce3bced1250b8aea88d735.jpg</picture>
+                <picture>https://prime-sport.ru/upload/iblock/817/8170e3adad510f31dad8e865306bc782.jpg</picture>
+                <vat>5</vat>
+                <shipment-options>
+                    <option days="0" order-before="8"/>
+                </shipment-options>
+                <vendor>Starfit</vendor>
+                <vendorCode>УТ-00018806</vendorCode>
+                <barcode>4680459117892</barcode>
+                <description>Диск обрезиненный BB-202 от STARFIT - это спортивный инвентарь, предназначенный для обеспечения нужной нагрузки во время тренировок с гантелями или штангой. Данная модель продается поштучно. Блин для штанги или гантели BB-202 дополнен металлической втулкой в посадочном отверстии, позволяющей надевать и снимать диски легко и быстро. Изделие выполнено в индивидуальном дизайне и дополнено логотипом бренда.
+BB-202 имеет обрезиненное покрытие, которое обеспечивает отличную амортизацию с напольным покрытием. Такой спортинвентарь издает меньше шума при случайном падении, не повреждает пол и делает тренировки безопаснее для спортсмена.
+Металлические диски для гантелей и штанг откалиброваны по весу. Каждое изделие весит 5 кг. Инвентарь имеет диаметр отверстия 26 мм, который подходит к большинству стандартных грифов.
+Преимущества:
+Металлическая втулка для удобства надевания и снятия;
+Обрезиненное покрытие для улучшенной амортизации;
+Откалиброван по весу.
+Характеристики:
+Вес, кг: 5
+Внутренний материал: металл
+Внешний материал: резина
+Материал втулки: сталь
+Диаметр посадочного отверстия, см: 2,6
+Диаметр диска, см: 23
+Толщина диска, см: 2,9
+Цвет: черный
+Тип упаковки: полиэтиленовый пакет с наклейкой
+Количество в упаковке, шт: 1
+Производство: КНР</description>
+                <outlets>
+                    <outlet id="91867" instock="1148" />
+                </outlets>
+                <param name="Габариты" unit="СМ">230 x 230 x 30</param>
+                <param name="Вес" unit="КГ">5.075</param>
+            </offer>
+            <offer id="1483994" available="true">
+                <name>Диск пластиковый BB-203 d=26 мм, черный, 10 кг</name>
+                <price>2069</price>
+                <oldprice>2169</oldprice>
+                <categoryId>273</categoryId>
+                <picture>https://prime-sport.ru/upload/iblock/0af/0afc3468a018318b94d3b2e2f929a3a4.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/9af/9afc060668ed358bceca7a199d549bfd.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/7b9/7b9cddb18fb3d5a38a38b5a417eb4efa.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/14c/14c078ec069f38865be826cfbc2e4cf4.png</picture>
+                <vat>5</vat>
+                <shipment-options>
+                    <option days="0" order-before="8"/>
+                </shipment-options>
+                <vendor>BASEFIT</vendor>
+                <vendorCode>УТ-00019756</vendorCode>
+                <barcode>4680459126429</barcode>
+                <description>Диск пластиковый BB-203 от BASEFIT - это спортивный инвентарь, предназначенный для обеспечения нужной нагрузки во время тренировок с гантелями или штангой. Данная модель продается поштучно. Блины для штанги или гантели BB-203 выполнены из ABS пластика и заполнены внутри цементом. В отличие от гранулированного наполнителя, цемент не шуршит и не издает посторонних шумов во время тренировки. Блины для гантелей имеют укрепленную пластиковую втулку, которая не истончается со временем из-за трения о резьбу грифа и делает спортинвентарь еще долговечнее. Пластиковый диск для гантели или штанги не повреждает напольное покрытие и подходит для домашнего использования.
+Диски для гантелей и штанг откалиброваны по весу. Каждое изделие весит 10 кг. Блин для штанги или гантели имеет диаметр отверстия 26 мм и подходит к большинству стандартных грифов.
+Меры предосторожности: не рекомендуется бросать снаряд с пластиковыми дисками на пол, это может привести к растрескиванию наполнителя и покрытия диска.
+Преимущества:
+Укрепленная пластиковая втулка;
+Наполнитель не издает посторонних шумов;
+Не повреждает напольное покрытие.
+Характеристики:
+Вес, кг: 10
+Внутренний материал: цемент
+Покрытие: ABS пластик
+Диаметр посадочного отверстия, см: 2,6
+Диаметр диска, см: 32
+Толщина диска, см: 5,7
+Цвет: черный
+Тип упаковки: полиэтиленовый пакет с наклейкой
+Количество в упаковке, шт: 1
+Производство: КНР</description>
+                <outlets>
+                    <outlet id="91867" instock="606" />
+                </outlets>
+                <param name="Габариты" unit="СМ">320 x 320 x 60</param>
+                <param name="Вес" unit="КГ">10.15</param>
+            </offer>
+            <offer id="2104758" available="true">
+                <name>Диск чугунный BB-204 d=26 мм, черный, 10 кг</name>
+                <price>3999</price>
+                <oldprice>4199</oldprice>
+                <categoryId>273</categoryId>
+                <picture>https://prime-sport.ru/upload/iblock/0f3/0f327da04d4d6df98df398765222a05e.png</picture>
+                <vat>5</vat>
+                <shipment-options>
+                    <option days="0" order-before="8"/>
+                </shipment-options>
+                <vendor>Starfit</vendor>
+                <vendorCode>ЦБ-00001677</vendorCode>
+                <barcode>4680459181152</barcode>
+                <description>Диск чугунный BB-204 от STARFIT - это спортивный инвентарь, предназначенный для обеспечения нужной нагрузки во время тренировок с гантелями или штангой. Данная модель продается поштучно. Блин для штанги или гантели BB-204 прочный и надежный, он изготовлен из чугуна, который прост в эксплуатации и не требует особого ухода. Блины для гантелей имеют аутентичный вешний вид и непременно понравятся любителям «классического железа». Диски проходят проверку по весу - каждое изделие весит 10 кг. Блин имеет диаметр отверстия 26 мм и подходит к большинству стандартных грифов.
+Диск BB-204 - ваш надежный помощник для формирования красивой фигуры.
+Преимущества:
+Чугунный диск;
+Аутентичный дизайн;
+Надежная и долговечная модель.
+Характеристики:
+Вес, кг: 10
+Материал: чугун
+Диаметр посадочного отверстия, см: 2,6
+Диаметр диска, см: 27,5
+Толщина диска, см: 3,2
+Цвет: черный
+Тип упаковки: полиэтиленовый пакет с наклейкой
+Количество в упаковке, шт: 1
+Производство: КНР</description>
+                <outlets>
+                    <outlet id="91867" instock="14" />
+                </outlets>
+                <param name="Габариты" unit="СМ">280 x 280 x 40</param>
+                <param name="Вес" unit="КГ">10.15</param>
+            </offer>
+            <offer id="998407" available="true">
+                <name>Диск чугунный BB-204 d=26 мм, черный, 5 кг</name>
+                <price>2039</price>
+                <oldprice>2159</oldprice>
+                <categoryId>273</categoryId>
+                <picture>https://prime-sport.ru/upload/iblock/fcb/fcb84c23ef2e345bd39a9f185f7d741e.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/4a3/4a372f89c94e44f4d361278592d940ab.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/ea5/ea53ff1fa909e1a6e8aabe13790bcccc.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/e6f/e6f0d9491c474d2483a4c9e5edc191f8.png</picture>
+                <picture>https://prime-sport.ru/upload/iblock/320/32008a52e7dcf1cd77ff70c839435853.png</picture>
+                <vat>5</vat>
+                <shipment-options>
+                    <option days="0" order-before="8"/>
+                </shipment-options>
+                <vendor>Starfit</vendor>
+                <vendorCode>УТ-00018818</vendorCode>
+                <barcode>4680459118011</barcode>
+                <description>Диск чугунный BB-204 от STARFIT - это спортивный инвентарь, предназначенный для обеспечения нужной нагрузки во время тренировок с гантелями или штангой. Данная модель продается поштучно. Блин для штанги или гантели BB-204 прочный и надежный, он изготовлен из чугуна, который прост в эксплуатации и не требует особого ухода. Блины для гантелей имеют аутентичный вешний вид и непременно понравятся любителям «классического железа». Диски проходят проверку по весу - каждое изделие весит 5 кг. Блин имеет диаметр отверстия 26 мм и подходит к большинству стандартных грифов.
+Диск BB-204 - ваш надежный помощник для формирования красивой фигуры.
+Преимущества:
+Чугунный диск;
+Аутентичный дизайн;
+Надежная и долговечная модель.
+Характеристики:
+Вес, кг: 5
+Материал: чугун
+Диаметр посадочного отверстия, см: 2,6
+Диаметр диска, см: 21
+Толщина диска, см: 3
+Цвет: черный
+Тип упаковки: полиэтиленовый пакет с наклейкой
+Количество в упаковке, шт: 1
+Производство: КНР</description>
+                <outlets>
+                    <outlet id="91867" instock="1099" />
+                </outlets>
+                <param name="Габариты" unit="СМ">210 x 210 x 30</param>
+                <param name="Вес" unit="КГ">5.075</param>
+            </offer>
+            </offers>
+    </shop>
+</yml_catalog>
